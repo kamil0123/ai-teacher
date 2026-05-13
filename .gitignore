@@ -208,3 +208,6 @@ __marimo__/
 
 # courses materials
 courses/
+
+# Environment variables file
+.env
